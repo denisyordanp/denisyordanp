@@ -1,4 +1,4 @@
-[![Social banner for denisyordanp](https://github.com/denisyordanp/denisyordanp/assets/github-cover.png)]
+[![Social banner for denisyordanp](https://github.com/denisyordanp/denisyordanp/main/assets/github-cover.png)]
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Denis Yordan P
