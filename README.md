@@ -1,9 +1,9 @@
-<img src="assets/github-cover.png" alt="Denis Yordan P">
+<img src="assets/github-cover.png" alt="Denis Yordan Panggabean">
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Denis Yordan P
+My name is Denis Yordan Panggabean and I'm Indonesian 🇮🇩
 </p>
-<p align='center'>I'm Android Developer using Java and/or Kotlin Language. been using Android Studio since 2019. Always want to be part of company that have great impact for lower middle society expecially in Indonesia 🇮🇩</p>
+<p align='center'>Currently I'm professional Android Engineer Java and/or Kotlin Language. been using Android Studio since 2019. Will be happy is I can be part of company that have great impact for lower middle society</p>
 <br>
 <p align='center'><a href="https://denisyordanp.github.io/" target="_blank">More info about me</a></p>
