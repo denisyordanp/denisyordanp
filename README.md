@@ -1,4 +1,4 @@
-<img src="assets/github-cover.png" alt="Denis Yordan Panggabean">
+<p align='center'><img src="assets/github-cover.png" alt="Denis Yordan Panggabean"></align>
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
